@@ -349,7 +349,7 @@ Building scalable, secure, and high-performance mobile applications with Flutter
 
 📧 **Email**
 
-> kamlesh.it0195@gmail.com
+> kamleshyadav0195@gmail.com
 
 🌐 **Portfolio**
 
