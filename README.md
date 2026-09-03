@@ -1,214 +1,146 @@
-<div align="center"><div align="center">
-  <img src="https://guru.com/blog/wp-content/uploads/2023/02/flutter-app-dev.jpg" alt="Flutter Developer Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.6);">
+<div align="center">
+  <img src="https://guru.com/blog/wp-content/uploads/2023/02/flutter-app-dev.jpg" alt="Flutter Developer Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);">
   
   <br/><br/>
   
   <h1>Hi 👋, I'm Kamlesh Yadav</h1>
   
-  <h3>🚀 Senior Software Engineer | Cross-Platform (Flutter) & Backend (Java/Spring Boot) Expert</h3>
+  <h3>🚀 Senior Flutter Engineer & Full-Stack Java Developer</h3>
   
-  <p><b>📍 Lucknow, Uttar Pradesh, India</b></p>
-  
-  <p><i>Architecting scalable, secure, and high-performance enterprise applications with Clean Architecture and Microservices.</i></p>
+  <p><b>Architecting scalable cross-platform mobile apps, reactive web platforms, and microservices backends.</b></p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/kamlesh195"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://kamlesh-protfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/kamlesh-yadav-2019"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://kamlesh-protfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
     <a href="mailto:kamleshyadav0195@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 </div>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Executive Summary
 
-Results-driven **Software Engineer with 4+ years of end-to-end development experience**, specializing in both high-performance mobile applications (Flutter/Dart) and robust backend systems (Java/Spring Boot). Adept at designing microservices architectures, optimizing application performance, and deploying to cloud infrastructure (AWS/Firebase). 
+Results-driven **Software Engineer with 4+ years of professional production experience** architecting, developing, and deploying enterprise-grade mobile and web applications. Expert in the complete **Flutter & Dart ecosystem**, coupled with a strong foundation in **Java, Spring Boot, Microservices, and Cloud infrastructure (AWS & Firebase)**.
 
-Passionate about writing clean, modular, and maintainable code following **SOLID principles** and **Clean Architecture**. Proven track record of delivering production-ready applications from concept to deployment.
-
-- 🏢 Currently engineering solutions as a **Software Engineer** at **ACME INFOSOFT PVT. LTD.**
-- 🎓 **Master of Computer Applications (MCA)**, Tezpur University (2025)
-- 🎓 **B.Sc. in Mathematics**, Siddharth University (2020)
+- 🏢 Currently engineering high-impact products at **ACME INFOSOFT PVT. LTD.**
+- 📱 Proven track record of launching and maintaining multiple **production apps on Google Play Store & Web**.
+- 📐 Dedicated practitioner of **Clean Architecture, SOLID Principles, TDD**, and maintainable design patterns.
+- ⚡ Strong focus on performance optimization: zero-jank 60/120fps UI rendering, memory leak prevention, and low-latency API integration.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 📱 Comprehensive Flutter & Mobile Ecosystem
 
-### 📱 Mobile & Frontend Development
-> **Core:** Flutter, Dart, Android, iOS, Responsive UI, Material/Cupertino Design <br>
-> **State Management:** BLoC, Riverpod, Provider, Cubit, GetX <br>
-> **Features:** Deep Linking, Google Maps, Offline Storage (Hive/SQLite), QR Code/Camera Integration, Push/Local Notifications, Multi-language Support, Adaptive Layouts.
+<table>
+  <tr>
+    <td width="30%"><b>Core & Framework</b></td>
+    <td>Flutter (Android, iOS, Web, Desktop), Dart 3, Material 3, Cupertino, Responsive Framework</td>
+  </tr>
+  <tr>
+    <td><b>State Management</b></td>
+    <td>BLoC, Cubit, Riverpod 2.x, Provider, GetX</td>
+  </tr>
+  <tr>
+    <td><b>Networking & APIs</b></td>
+    <td>Dio, Retrofit, HTTP, WebSockets, JSON Serializable, Freezed, GraphQL Client</td>
+  </tr>
+  <tr>
+    <td><b>Offline Storage & DB</b></td>
+    <td>Hive, SQLite (sqflite), Isar, Shared Preferences, Flutter Secure Storage</td>
+  </tr>
+  <tr>
+    <td><b>Hardware & Native</b></td>
+    <td>Platform Channels (MethodChannel/EventChannel), Camera, QR/Barcode Scanner, Biometrics (Local Auth), Google Maps & Geolocation, Background Services</td>
+  </tr>
+  <tr>
+    <td><b>Media & UI Polish</b></td>
+    <td>Lottie, Rive, Flutter Animate, CachedNetworkImage, Custom Painters & Canvas, Slivers</td>
+  </tr>
+  <tr>
+    <td><b>Testing & Profiling</b></td>
+    <td>Flutter DevTools, Dart Analyzer, Unit Tests, Widget Tests, Integration Tests, Mockito</td>
+  </tr>
+  <tr>
+    <td><b>CI/CD & Publishing</b></td>
+    <td>Fastlane, GitHub Actions, Google Play Console, App Store Connect, Build Flavors & Obfuscation</td>
+  </tr>
+</table>
 
-### ⚙️ Backend & Microservices
-> **Core:** Java, Spring Boot, Spring MVC, Spring Cloud, RESTful APIs, WebSockets <br>
-> **Security:** Spring Security, JWT Authentication, OAuth 2.0 <br>
-> **Data & ORM:** Spring Data JPA, Hibernate, MySQL, Maven, Gradle <br>
-> **Integrations:** Payment Gateways (Razorpay, Cashfree), Shopify Storefront API, Third-party SDKs, Retrofit, Dio.
+---
 
-### ☁️ Cloud, Firebase & DevOps
-> **AWS:** EC2, S3, IAM, CloudWatch <br>
-> **Firebase:** Authentication, Cloud Firestore, Storage, FCM (Cloud Messaging), Analytics, Crashlytics, Remote Config, Dynamic Links <br>
-> **DevOps:** Git, GitHub Actions, CI/CD Pipelines, Build Flavors, Play Store Deployment, Agile/Scrum.
+## ⚙️ Backend, Cloud & Database Arsenal
 
-### 🏗️ Architecture & Design Patterns
-> Clean Architecture | SOLID Principles | MVVM | MVC | Repository Pattern | Dependency Injection | Singleton Pattern | Modular Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=microgen&logoColor=white" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+- **Enterprise Backend:** Spring Cloud, Spring Data JPA, Hibernate, JWT, OAuth 2.0, RESTful Microservices architecture.
+- **Cloud & BaaS:** AWS (EC2, S3, IAM, CloudWatch), Firebase (Firestore, Cloud Functions, FCM, Remote Config, Crashlytics).
+- **Payment & Third-Party:** Razorpay, Cashfree Payment Gateway, Shopify Storefront API, Deep Linking, SMS & Email Gateways.
+
+---
+
+## 🚀 Live Production Portfolio
+
+### 📲 Mobile Applications (Google Play Store)
+
+| Application | Domain & Highlights | Link |
+| :--- | :--- | :---: |
+| **Jaadu App** | High-utility consumer mobile platform featuring real-time services, responsive UI, and seamless user interaction. | <a href="https://play.google.com/store/apps/details?id=com.jaadu.app&hl=en_IN"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store"/></a> |
+| **FBSSSM App** | Enterprise educational ERP system managing admissions, real-time fee tracking, student/teacher modules, and instant FCM notifications. | <a href="https://play.google.com/store/apps/details?id=com.acme.fbsssm&hl=en_IN"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store"/></a> |
+| **Kairali App** | Healthcare & Ayurvedic wellness management app featuring appointment booking, doctor schedules, patient profiles, and medical records. | <a href="https://play.google.com/store/apps/details?id=com.acme.kairali&hl=en_IN"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store"/></a> |
+| **RHC Property Agent** | Real estate platform built for property consultants with dynamic property listings, location mapping, client leads, and media uploads. | <a href="https://play.google.com/store/apps/details?id=com.acmeinfosoft.rhcpropertyagent&hl=en_IN"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store"/></a> |
+
+### 🌐 Live Web Applications & Platforms
+
+| Platform | Domain & Tech Overview | Live URL |
+| :--- | :--- | :---: |
+| **Mahadev Jewels** | Luxury jewelry retail & e-commerce portal with secure authentication, inventory browsing, and catalog management. | [mahadevjewels.com ↗](https://mahadevjewels.com/login) |
+| **Shubhechchha Village** | Resort booking and community hospitality management platform with interactive reservation options and user authentication. | [app.shubhechchhavillage.com ↗](https://app.shubhechchhavillage.com/authOptionScreen) |
+| **SS World** | Enterprise commercial management portal with secure role-based dashboard access, business workflows, and reporting. | [ssworld.co.in ↗](https://ssworld.co.in/login) |
 
 ---
 
 ## 💼 Work Experience
 
-### **Software Engineer** | ACME INFOSOFT PVT. LTD. *(4+ Years)*
+### **Senior Software Engineer** | ACME INFOSOFT PVT. LTD. *(4+ Years)*
 
-Engineered enterprise-level applications, driving performance improvements and architectural modernization. 
-
-**Key Contributions & Achievements:**
-- 🔹 **Architectural Design:** Built scalable mobile applications utilizing **Clean Architecture** and robust state management solutions (BLoC/Riverpod).
-- 🔹 **Full-Stack Implementation:** Developed seamless REST APIs and backend microservices using **Java & Spring Boot**, effectively bridging the gap between frontend and backend teams.
-- 🔹 **Security & Authorization:** Implemented enterprise-grade security using **Spring Security, JWT Authentication, and OAuth 2.0**.
-- 🔹 **Cloud Integration:** Leveraged **AWS (EC2, S3)** and the full suite of **Firebase Services** (Firestore, Crashlytics, Cloud Messaging) for data synchronization and app monitoring.
-- 🔹 **Advanced Features:** Successfully integrated complex features including Google Maps, QR Scanners, Payment Gateways, and real-time push notifications.
-- 🔹 **Optimization & Delivery:** Reduced application load times, optimized offline storage for low-network environments, and managed end-to-end Google Play Store deployments.
+- **Lead Application Architect:** Architected mission-critical mobile and web applications from scratch using Flutter, BLoC, and Clean Architecture.
+- **Backend & API Systems:** Designed and maintained RESTful microservices using Spring Boot, securing end-points with Spring Security, JWT, and OAuth 2.0.
+- **Full-Cycle Deployment:** Managed end-to-end releases on the Google Play Store, managing build flavors, obfuscation (ProGuard/R8), and continuous delivery workflows.
+- **Performance & Reliability:** Integrated Firebase Crashlytics and AWS CloudWatch, reducing application crash rates to less than 0.1% and significantly reducing cold-boot latency.
+- **Cross-Functional Collaboration:** Mentored junior developers, conducted strict code reviews, and partnered with UI/UX designers and QA teams in fast-paced Agile/Scrum environments.
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **Solar Shakti** | `Flutter`, `Spring Boot`, `AWS` | A high-performance, live web and mobile application deployed for production environments. Focuses on seamless user experience and backend scalability. |
-| **Enterprise E-Commerce App** | `Flutter`, `Razorpay`, `Cashfree`, `Shopify API` | Comprehensive digital storefront featuring advanced product management, secure cart handling, and robust payment gateway integrations (Razorpay/Cashfree). |
-| **Employee Management System** | `Flutter`, `Firebase`, `BLoC`, `SQLite` | Enterprise portal for real-time attendance tracking, leave management, and payroll processing, built with strict Clean Architecture guidelines. |
-| **School ERP Platform** | `Flutter`, `Spring Boot`, `REST APIs` | End-to-end educational management tool integrating student/teacher modules, fee tracking, and real-time FCM push notifications. |
-| **Hospital Management System** | `Flutter`, `Firebase`, `Java` | Secure healthcare platform handling sensitive patient records, seamless appointment booking, and dynamic reporting modules. |
-
----
-
-## 📊 Development Metrics & Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
   <table width="100%">
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kamlesh195&show_icons=true&theme=react&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Kamlesh195&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" alt="GitHub Stats" width="100%"/>
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamlesh195&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamlesh195&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9" alt="Top Languages" width="100%"/>
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamlesh195&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamlesh195&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=70A5FD&currStreakNum=C9D1D9" alt="GitHub Streak" width="100%"/>
 </div>
 
 ---
+
 <div align="center">
-  <p><i>"Writing clean, maintainable, and scalable code isn't just a requirement—it's a habit."</i></p>
+  <p><i>"Engineered for performance, built for scale, designed for users."</i></p>
   <br>
-  ⭐️ <b>Let's build something amazing together!</b> ⭐️
-</div>
-  <img src="https://guru.com/blog/wp-content/uploads/2023/02/flutter-app-dev.jpg" alt="Flutter Developer Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
-  
-  <br/><br/>
-  
-  <h1>Hi 👋, I'm Kamlesh Yadav</h1>
-  
-  <h3>Software Engineer | Flutter Specialist | Java Backend Developer</h3>
-  
-  <p><i>Building scalable, secure, and high-performance applications with Flutter & Spring Boot.</i></p>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/kamlesh195"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://kamlesh-protfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-    <a href="mailto:kamleshyadav0195@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I am a Software Engineer with **4+ years of professional experience** designing, developing, and deploying enterprise-grade mobile applications. I specialize in **Clean Architecture**, writing maintainable code, and integrating complex backend services to deliver seamless user experiences.
-
-- 🏢 Currently working as a **Software Engineer** at **ACME INFOSOFT PVT. LTD.**
-- ⚙️ Focused on delivering production-ready applications for Android and iOS using **Flutter**.
-- 🔌 Deep expertise in backend integration using **Java, Spring Boot, Microservices, and REST APIs**.
-- ☁️ Experienced in modern cloud and BaaS platforms including **AWS** and **Firebase**.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
-</p>
-
-### Backend & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-</p>
-
-### Database & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
----
-
-## 💼 Professional Experience
-
-### **Software Engineer** | ACME INFOSOFT PVT. LTD. *(4+ Years)*
-<details>
-<summary><b>View Key Responsibilities (Click to Expand)</b></summary>
-<br>
-
-- **Architecture & Design:** Built scalable mobile applications utilizing Clean Architecture, MVVM, BLoC, and Riverpod. 
-- **Full-Stack Integration:** Developed and consumed REST APIs, integrating frontend Flutter interfaces with robust Java/Spring Boot microservices.
-- **Security & Cloud:** Implemented Spring Security, JWT authentication, and OAuth 2.0. Heavily utilized AWS services (EC2, S3, IAM) and Firebase (Firestore, Cloud Messaging, Crashlytics).
-- **Core Mobile Features:** Integrated Google Maps, Payment Gateways, QR Scanners, Local/Push Notifications, and built resilient offline data storage solutions.
-- **DevOps & Agile:** Managed CI/CD pipelines, maintained code quality via Git, published directly to the Google Play Store, and actively participated in Agile/Scrum sprint planning.
-</details>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| **Employee Management System** | `Flutter`, `Firebase`, `BLoC`, `SQLite` | Built a comprehensive portal for attendance tracking, leave management, and payroll dashboards using Clean Architecture. |
-| **School ERP System** | `Flutter`, `REST APIs`, `Spring Boot` | Engineered an end-to-end management tool featuring student/teacher modules, fee tracking, notice boards, and real-time push notifications. |
-| **E-Commerce Application** | `Flutter`, `REST APIs`, `AWS` | Developed a fully-functional storefront with robust product management, cart handling, order tracking, and secure payment gateway integration. |
-| **Hospital Management System** | `Flutter`, `Firebase`, `Java` | Delivered a secure healthcare application for patient records, doctor management, and streamlined appointment booking. |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kamlesh195&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1F222E" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamlesh195&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" alt="Top Languages" width="100%"/>
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamlesh195&theme=tokyonight&hide_border=true&background=1F222E" alt="GitHub Streak" width="100%"/>
-</div>
-
----
-<div align="center">
-  <i>"Writing clean code isn't just a requirement; it's a habit."</i><br><br>
-  ⭐️ <b>Don't forget to star my repositories if you find them helpful!</b> ⭐️
+  🤝 <b>Always open to discussing high-impact engineering roles, architecture, and collaborations!</b>
 </div>
