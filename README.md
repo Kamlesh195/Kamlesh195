@@ -3,7 +3,9 @@
   
   <br/><br/>
   
-  <h1>Hi 👋, I'm Kamlesh Yadav</h1>
+  <h1 align="center">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi 👋, I'm Kamlesh Yadav
+  </h1>
   
   <h3>🚀 Senior Flutter Engineer & Full-Stack Java Developer</h3>
   
@@ -50,19 +52,11 @@ Results-driven **Software Engineer with 4+ years of professional production expe
   </tr>
   <tr>
     <td><b>Hardware & Native</b></td>
-    <td>Platform Channels (MethodChannel/EventChannel), Camera, QR/Barcode Scanner, Biometrics (Local Auth), Google Maps & Geolocation, Background Services</td>
-  </tr>
-  <tr>
-    <td><b>Media & UI Polish</b></td>
-    <td>Lottie, Rive, Flutter Animate, CachedNetworkImage, Custom Painters & Canvas, Slivers</td>
+    <td>Platform Channels, Camera, QR/Barcode Scanner, Biometrics, Google Maps & Geolocation</td>
   </tr>
   <tr>
     <td><b>Testing & Profiling</b></td>
     <td>Flutter DevTools, Dart Analyzer, Unit Tests, Widget Tests, Integration Tests, Mockito</td>
-  </tr>
-  <tr>
-    <td><b>CI/CD & Publishing</b></td>
-    <td>Fastlane, GitHub Actions, Google Play Console, App Store Connect, Build Flavors & Obfuscation</td>
   </tr>
 </table>
 
@@ -82,8 +76,42 @@ Results-driven **Software Engineer with 4+ years of professional production expe
 </p>
 
 - **Enterprise Backend:** Spring Cloud, Spring Data JPA, Hibernate, JWT, OAuth 2.0, RESTful Microservices architecture.
-- **Cloud & BaaS:** AWS (EC2, S3, IAM, CloudWatch), Firebase (Firestore, Cloud Functions, FCM, Remote Config, Crashlytics).
-- **Payment & Third-Party:** Razorpay, Cashfree Payment Gateway, Shopify Storefront API, Deep Linking, SMS & Email Gateways.
+- **Cloud & BaaS:** AWS (EC2, S3, IAM, CloudWatch), Firebase (Firestore, Cloud Functions, FCM, Crashlytics).
+- **Payment & Third-Party:** Razorpay, Cashfree Payment Gateway, Shopify Storefront API.
+
+---
+
+## 📁 My Top GitHub Repositories
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <a href="https://github.com/Kamlesh195/Peblo-AI-learning">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamlesh195&repo=Peblo-AI-learning&theme=radical&show_icons=true" width="100%" alt="Peblo AI Learning" />
+        </a>
+      </td>
+      <td valign="top" width="50%">
+        <a href="https://github.com/Kamlesh195/Provider-in-flutter-project">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamlesh195&repo=Provider-in-flutter-project&theme=radical&show_icons=true" width="100%" alt="Provider in Flutter" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <a href="https://github.com/Kamlesh195/Ecobin-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamlesh195&repo=Ecobin-App&theme=radical&show_icons=true" width="100%" alt="Ecobin App" />
+        </a>
+      </td>
+      <td valign="top" width="50%">
+        <!-- यहाँ YOUR_4TH_REPO_HERE की जगह अपनी किसी और रिपॉजिटरी का नाम डाल दें -->
+        <a href="https://github.com/Kamlesh195?tab=repositories">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamlesh195&repo=YOUR_4TH_REPO_HERE&theme=radical&show_icons=true" width="100%" alt="More Repositories" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -93,30 +121,18 @@ Results-driven **Software Engineer with 4+ years of professional production expe
 
 | Application | Domain & Highlights | Link |
 | :--- | :--- | :---: |
-| **Jaadu App** | High-utility consumer mobile platform featuring real-time services, responsive UI, and seamless user interaction. | <a href="https://play.google.com/store/apps/details?id=com.jaadu.app&hl=en_IN"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store"/></a> |
-| **FBSSSM App** | Enterprise educational ERP system managing admissions, real-time fee tracking, student/teacher modules, and instant FCM notifications. | <a href="https://play.google.com/store/apps/details?id=com.acme.fbsssm&hl=en_IN"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store"/></a> |
-| **Kairali App** | Healthcare & Ayurvedic wellness management app featuring appointment booking, doctor schedules, patient profiles, and medical records. | <a href="https://play.google.com/store/apps/details?id=com.acme.kairali&hl=en_IN"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store"/></a> |
-| **RHC Property Agent** | Real estate platform built for property consultants with dynamic property listings, location mapping, client leads, and media uploads. | <a href="https://play.google.com/store/apps/details?id=com.acmeinfosoft.rhcpropertyagent&hl=en_IN"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store"/></a> |
+| **Jaadu App** | High-utility consumer mobile platform with real-time services. | <a href="https://play.google.com/store/apps/details?id=com.jaadu.app&hl=en_IN"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store"/></a> |
+| **FBSSSM App** | Enterprise educational ERP system for real-time tracking and FCM notifications. | <a href="https://play.google.com/store/apps/details?id=com.acme.fbsssm&hl=en_IN"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store"/></a> |
+| **Kairali App** | Healthcare & Ayurvedic wellness management app for appointments & records. | <a href="https://play.google.com/store/apps/details?id=com.acme.kairali&hl=en_IN"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store"/></a> |
+| **RHC Property Agent** | Real estate platform built for property consultants with dynamic mapping. | <a href="https://play.google.com/store/apps/details?id=com.acmeinfosoft.rhcpropertyagent&hl=en_IN"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store"/></a> |
 
 ### 🌐 Live Web Applications & Platforms
 
 | Platform | Domain & Tech Overview | Live URL |
 | :--- | :--- | :---: |
-| **Mahadev Jewels** | Luxury jewelry retail & e-commerce portal with secure authentication, inventory browsing, and catalog management. | [mahadevjewels.com ↗](https://mahadevjewels.com/login) |
-| **Shubhechchha Village** | Resort booking and community hospitality management platform with interactive reservation options and user authentication. | [app.shubhechchhavillage.com ↗](https://app.shubhechchhavillage.com/authOptionScreen) |
-| **SS World** | Enterprise commercial management portal with secure role-based dashboard access, business workflows, and reporting. | [ssworld.co.in ↗](https://ssworld.co.in/login) |
-
----
-
-## 💼 Work Experience
-
-### **Senior Software Engineer** | ACME INFOSOFT PVT. LTD. *(4+ Years)*
-
-- **Lead Application Architect:** Architected mission-critical mobile and web applications from scratch using Flutter, BLoC, and Clean Architecture.
-- **Backend & API Systems:** Designed and maintained RESTful microservices using Spring Boot, securing end-points with Spring Security, JWT, and OAuth 2.0.
-- **Full-Cycle Deployment:** Managed end-to-end releases on the Google Play Store, managing build flavors, obfuscation (ProGuard/R8), and continuous delivery workflows.
-- **Performance & Reliability:** Integrated Firebase Crashlytics and AWS CloudWatch, reducing application crash rates to less than 0.1% and significantly reducing cold-boot latency.
-- **Cross-Functional Collaboration:** Mentored junior developers, conducted strict code reviews, and partnered with UI/UX designers and QA teams in fast-paced Agile/Scrum environments.
+| **Mahadev Jewels** | Luxury jewelry retail & e-commerce portal with secure authentication. | [mahadevjewels.com ↗](https://mahadevjewels.com/login) |
+| **Shubhechchha Village** | Resort booking and community hospitality management platform. | [app.shubhechchhavillage.com ↗](https://app.shubhechchhavillage.com/authOptionScreen) |
+| **SS World** | Enterprise commercial management portal with secure role-based dashboard access. | [ssworld.co.in ↗](https://ssworld.co.in/login) |
 
 ---
 
@@ -126,21 +142,19 @@ Results-driven **Software Engineer with 4+ years of professional production expe
   <table width="100%">
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kamlesh195&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" alt="GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Kamlesh195&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="100%"/>
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamlesh195&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9" alt="Top Languages" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamlesh195&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%"/>
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamlesh195&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=70A5FD&currStreakNum=C9D1D9" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamlesh195&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-  <p><i>"Engineered for performance, built for scale, designed for users."</i></p>
-  <br>
-  🤝 <b>Always open to discussing high-impact engineering roles, architecture, and collaborations!</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
