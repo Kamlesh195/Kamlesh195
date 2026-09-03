@@ -1,372 +1,107 @@
-<p align="center">
-  <img src="https://guru.com/blog/wp-content/uploads/2023/02/flutter-app-dev.jpg"
-       alt="Flutter Developer Banner"
-       width="75%">
+<div align="center">
+  <img src="https://guru.com/blog/wp-content/uploads/2023/02/flutter-app-dev.jpg" alt="Flutter Developer Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
+  
+  <br/><br/>
+  
+  <h1>Hi 👋, I'm Kamlesh Yadav</h1>
+  
+  <h3>Software Engineer | Flutter Specialist | Java Backend Developer</h3>
+  
+  <p><i>Building scalable, secure, and high-performance applications with Flutter & Spring Boot.</i></p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/kamlesh195"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://kamlesh-protfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="mailto:kamleshyadav0195@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a Software Engineer with **4+ years of professional experience** designing, developing, and deploying enterprise-grade mobile applications. I specialize in **Clean Architecture**, writing maintainable code, and integrating complex backend services to deliver seamless user experiences.
+
+- 🏢 Currently working as a **Software Engineer** at **ACME INFOSOFT PVT. LTD.**
+- ⚙️ Focused on delivering production-ready applications for Android and iOS using **Flutter**.
+- 🔌 Deep expertise in backend integration using **Java, Spring Boot, Microservices, and REST APIs**.
+- ☁️ Experienced in modern cloud and BaaS platforms including **AWS** and **Firebase**.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Kamlesh Yadav</h1>
-
-<h3 align="center">
-Software Engineer | Flutter Developer | Java | Spring Boot | Microservices | AWS | Spring Security | Spring Cloud | Firebase | Clean Architecture
-</h3>
-
-<p align="center">
-Building scalable, secure, and high-performance mobile applications with Flutter and Java technologies for over 4 years.
+### Backend & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 </p>
 
----
-
-# 👨‍💻 About Me
-
-💼 Software Engineer with **4+ years of professional experience** in designing, developing, deploying, and maintaining enterprise-grade mobile applications.
-
-📱 Specialized in Flutter application development with expertise in Android and iOS platforms.
-
-⚙️ Experienced in designing scalable architectures, integrating REST APIs, implementing secure authentication, and delivering production-ready applications.
-
-🚀 Strong knowledge of Flutter, Dart, Java, Spring Boot, Microservices, AWS, Firebase, Spring Security, Spring Cloud, REST APIs, and Clean Architecture.
-
-📈 Passionate about writing clean, maintainable, reusable, and scalable code while following modern software engineering best practices.
-
-🏢 Currently working as a **Software Engineer** at **ACME INFOSOFT PVT. LTD.**
-
----
-
-# 🎯 Core Expertise
-
-✅ Flutter Application Development
-
-✅ Android & iOS Development
-
-✅ Enterprise Mobile Applications
-
-✅ Java Backend Development
-
-✅ Spring Boot
-
-✅ Microservices Architecture
-
-✅ REST API Development & Integration
-
-✅ Firebase Services
-
-✅ AWS Cloud Services
-
-✅ Spring Security
-
-✅ Spring Cloud
-
-✅ Authentication & Authorization
-
-✅ Push Notifications
-
-✅ Payment Gateway Integration
-
-✅ Google Maps Integration
-
-✅ QR Scanner Integration
-
-✅ Location Services
-
-✅ Offline Data Storage
-
-✅ App Performance Optimization
-
-✅ State Management (BLoC, Provider, Riverpod)
-
-✅ Clean Architecture
-
-✅ Play Store Deployment
-
----
-
-# 🚀 Technical Skills
-
-## 📱 Mobile Development
-
-- Flutter
-- Dart
-- Android
-- iOS
-- Cross Platform Development
-- Responsive UI
-- Material Design
-- Cupertino Widgets
-- Custom Widgets
-- Adaptive Layout
-- Animations
-- Google Maps
-- Location Services
-- QR Code Scanner
-- Camera Integration
-- Deep Linking
-- Push Notifications
-- Local Notifications
-- Multi-language Support
-- Offline Storage
-- App Performance Optimization
-
----
-
-## ☕ Backend Development
-
-- Java
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Spring Cloud
-- Microservices
-- RESTful APIs
-- JWT Authentication
-- OAuth 2.0
-- Spring Data JPA
-- Hibernate
-- Maven
-- Gradle
-
----
-
-## ☁️ Cloud & Firebase
-
-- AWS EC2
-- AWS S3
-- AWS IAM
-- AWS CloudWatch
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Storage
-- Firebase Cloud Messaging (FCM)
-- Firebase Analytics
-- Firebase Crashlytics
-- Firebase Remote Config
-- Firebase Dynamic Links
-
----
-
-## 🗄 Database
-
-- MySQL
-- SQLite
-- Firestore
-- Hive
-- Shared Preferences
-
----
-
-## 🔄 API Integration
-
-- REST APIs
-- JSON Parsing
-- Dio
-- HTTP Package
-- Retrofit
-- WebSocket
-- Third-party SDK Integration
-
----
-
-## ⚙️ State Management
-
-- BLoC
-- Cubit
-- Provider
-- Riverpod
-- GetX
-
----
-
-## 🏗 Architecture & Design Patterns
-
-- Clean Architecture
-- SOLID Principles
-- Repository Pattern
-- Dependency Injection
-- MVC
-- MVVM
-- Modular Architecture
-- Singleton Pattern
-
----
-
-## 🛠 Tools & Technologies
-
-- Android Studio
-- VS Code
-- IntelliJ IDEA
-- Git
-- GitHub
-- GitHub Actions
-- Postman
-- Swagger
-- Figma
-- Jira
-- Firebase Console
-- Google Play Console
-
----
-
-## 🚀 DevOps & CI/CD
-
-- Git Version Control
-- CI/CD Pipelines
-- Play Store Deployment
-- Build Flavors
-- Release Management
-- Environment Configuration
-
----
-
-## 💻 Programming Languages
-
-- Dart
-- Java
-- SQL
-- JavaScript
-- XML
-
----
-
-## 📚 Development Practices
-
-- Agile Methodology
-- Scrum
-- Software Development Life Cycle (SDLC)
-- Code Review
-- Debugging
-- Performance Optimization
-- Unit Testing
-- Integration Testing
-
----
-
-# 💼 Professional Experience
-
-## Software Engineer
-
-### ACME INFOSOFT PVT. LTD.
-
-**Experience:** 4+ Years
-
-### Key Responsibilities
-
-✔ Designed and developed enterprise-level Flutter applications.
-
-✔ Built scalable mobile applications using Clean Architecture.
-
-✔ Developed reusable UI components and custom widgets.
-
-✔ Integrated REST APIs and third-party SDKs.
-
-✔ Developed backend services using Spring Boot and Java.
-
-✔ Worked on Microservices-based architecture.
-
-✔ Implemented Spring Security and JWT Authentication.
-
-✔ Integrated Firebase Authentication, Firestore, Storage, Analytics, Crashlytics, and Cloud Messaging.
-
-✔ Implemented Google Maps, QR Scanner, Camera, Payment Gateway, and Push Notifications.
-
-✔ Optimized application performance and reduced loading time.
-
-✔ Published and maintained Android applications on Google Play Store.
-
-✔ Collaborated with UI/UX Designers, QA Engineers, Product Managers, and Backend Teams.
-
-✔ Participated in Agile development and sprint planning.
-
-✔ Maintained code quality using Git and code review practices.
-
----
-
-# 📱 Featured Projects
-
-## 🚀 Employee Management System
-
-- Employee Attendance
-- Leave Management
-- Payroll
-- Dashboard
-- Firebase
-- SQLite
-- BLoC
-- Clean Architecture
-
----
-
-## 🏫 School ERP System
-
-- Student Management
-- Teacher Management
-- Attendance
-- Fees Management
-- Notice Board
-- Push Notifications
-- Reports
-- Admin Dashboard
-
----
-
-## 🛒 E-Commerce Application
-
-- Product Management
-- Cart
-- Wishlist
-- Payment Gateway
-- Order Tracking
-- Firebase
-- REST APIs
-- Authentication
-
----
-
-## 🏥 Hospital Management System
-
-- Patient Records
-- Doctor Management
-- Appointment Booking
-- Reports
-- Notifications
-- Admin Panel
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kamlesh195&show_icons=true&theme=tokyonight&count_private=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamlesh195&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamlesh195&layout=compact&theme=tokyonight"/>
+### Database & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
 
-# 🤝 Connect With Me
+## 💼 Professional Experience
 
-📧 **Email**
+### **Software Engineer** | ACME INFOSOFT PVT. LTD. *(4+ Years)*
+<details>
+<summary><b>View Key Responsibilities (Click to Expand)</b></summary>
+<br>
 
-> kamleshyadav0195@gmail.com
-
-🌐 **Portfolio**
-
-> https://kamlesh-protfolio.vercel.app/
-
-💼 **LinkedIn**
-
-> https://www.linkedin.com/in/kamlesh195
-
-💻 **GitHub**
-
-> https://github.com/Kamlesh195
+- **Architecture & Design:** Built scalable mobile applications utilizing Clean Architecture, MVVM, BLoC, and Riverpod. 
+- **Full-Stack Integration:** Developed and consumed REST APIs, integrating frontend Flutter interfaces with robust Java/Spring Boot microservices.
+- **Security & Cloud:** Implemented Spring Security, JWT authentication, and OAuth 2.0. Heavily utilized AWS services (EC2, S3, IAM) and Firebase (Firestore, Cloud Messaging, Crashlytics).
+- **Core Mobile Features:** Integrated Google Maps, Payment Gateways, QR Scanners, Local/Push Notifications, and built resilient offline data storage solutions.
+- **DevOps & Agile:** Managed CI/CD pipelines, maintained code quality via Git, published directly to the Google Play Store, and actively participated in Agile/Scrum sprint planning.
+</details>
 
 ---
 
-<h3 align="center">
-⭐ Building scalable, secure, and high-performance mobile applications with Flutter, Java, Spring Boot, and modern cloud technologies.
-</h3>
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| **Employee Management System** | `Flutter`, `Firebase`, `BLoC`, `SQLite` | Built a comprehensive portal for attendance tracking, leave management, and payroll dashboards using Clean Architecture. |
+| **School ERP System** | `Flutter`, `REST APIs`, `Spring Boot` | Engineered an end-to-end management tool featuring student/teacher modules, fee tracking, notice boards, and real-time push notifications. |
+| **E-Commerce Application** | `Flutter`, `REST APIs`, `AWS` | Developed a fully-functional storefront with robust product management, cart handling, order tracking, and secure payment gateway integration. |
+| **Hospital Management System** | `Flutter`, `Firebase`, `Java` | Delivered a secure healthcare application for patient records, doctor management, and streamlined appointment booking. |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Kamlesh195&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1F222E" alt="GitHub Stats" width="100%"/>
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamlesh195&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" alt="Top Languages" width="100%"/>
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamlesh195&theme=tokyonight&hide_border=true&background=1F222E" alt="GitHub Streak" width="100%"/>
+</div>
+
+---
+<div align="center">
+  <i>"Writing clean code isn't just a requirement; it's a habit."</i><br><br>
+  ⭐️ <b>Don't forget to star my repositories if you find them helpful!</b> ⭐️
+</div>
