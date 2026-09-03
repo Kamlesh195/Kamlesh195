@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://guru.com/blog/wp-content/uploads/2023/02/flutter-app-dev.jpg" alt="Flutter Developer Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);">
+  <img src="https://guru.com/blog/wp-content/uploads/2023/02/flutter-app-dev.jpg" alt="Flutter Developer Banner" width="100%" height="300px" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5); object-fit: cover;">
   
   <br/><br/>
   
@@ -35,49 +35,96 @@ Results-driven **Software Engineer with 4+ years of professional production expe
 
 <table>
   <tr>
-    <td width="30%"><b>Core & Framework</b></td>
-    <td>Flutter (Android, iOS, Web, Desktop), Dart 3, Material 3, Cupertino, Responsive Framework</td>
+    <td width="25%"><b>Core & Framework</b></td>
+    <td>Flutter SDK (Android, iOS, Web, Desktop), Dart 3, Kotlin, Swift, Material 3, Cupertino, Responsive UI, Adaptive Layouts, WebRTC</td>
   </tr>
   <tr>
     <td><b>State Management</b></td>
-    <td>BLoC, Cubit, Riverpod 2.x, Provider, GetX</td>
+    <td>BLoC, Cubit, Riverpod 2.x, Provider, GetX, MobX, Redux</td>
+  </tr>
+  <tr>
+    <td><b>Architecture & DI</b></td>
+    <td>Clean Architecture, MVVM, MVC, Repository Pattern, Dependency Injection (GetIt, Injectable), Freezed, Equatable</td>
   </tr>
   <tr>
     <td><b>Networking & APIs</b></td>
-    <td>Dio, Retrofit, HTTP, WebSockets, JSON Serializable, Freezed, GraphQL Client</td>
+    <td>Dio, Retrofit, HTTP, WebSockets, REST, GraphQL Client, gRPC, JSON Serializable, Chopper</td>
   </tr>
   <tr>
     <td><b>Offline Storage & DB</b></td>
-    <td>Hive, SQLite (sqflite), Isar, Shared Preferences, Flutter Secure Storage</td>
+    <td>Hive, SQLite (sqflite, drift), Isar, Realm, Shared Preferences, Flutter Secure Storage, ObjectBox</td>
   </tr>
   <tr>
-    <td><b>Hardware & Native</b></td>
-    <td>Platform Channels, Camera, QR/Barcode Scanner, Biometrics, Google Maps & Geolocation</td>
+    <td><b>Hardware & Native SDKs</b></td>
+    <td>Platform Channels (Method/Event), CameraX, QR/Barcode Scanner, Biometrics (Local Auth), Bluetooth (FlutterBlue), NFC, Audio/Video Players, Sensors</td>
+  </tr>
+  <tr>
+    <td><b>Location & Maps</b></td>
+    <td>Google Maps SDK, Mapbox, Geolocation, Geocoding, Background Location Services</td>
+  </tr>
+  <tr>
+    <td><b>UI/UX & Animations</b></td>
+    <td>Lottie, Rive, Flutter Animate, Custom Painters, Canvas API, Slivers, CachedNetworkImage, Shimmer</td>
+  </tr>
+  <tr>
+    <td><b>SDK Integrations</b></td>
+    <td>Razorpay, Cashfree, Stripe, Agora (Video Calling), Twilio, OneSignal, AppsFlyer, Deep Linking, Dynamic Links</td>
   </tr>
   <tr>
     <td><b>Testing & Profiling</b></td>
-    <td>Flutter DevTools, Dart Analyzer, Unit Tests, Widget Tests, Integration Tests, Mockito</td>
+    <td>Flutter DevTools, Dart Analyzer, Unit Tests, Widget Tests, Integration Tests, Mockito, Patrol, Appium</td>
   </tr>
 </table>
 
 ---
 
-## ⚙️ Backend, Cloud & Database Arsenal
+## ⚙️ Backend, Cloud & DevOps Arsenal
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=microgen&logoColor=white" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-- **Enterprise Backend:** Spring Cloud, Spring Data JPA, Hibernate, JWT, OAuth 2.0, RESTful Microservices architecture.
-- **Cloud & BaaS:** AWS (EC2, S3, IAM, CloudWatch), Firebase (Firestore, Cloud Functions, FCM, Crashlytics).
-- **Payment & Third-Party:** Razorpay, Cashfree Payment Gateway, Shopify Storefront API.
+<table>
+  <tr>
+    <td width="25%"><b>Backend Core</b></td>
+    <td>Java (8-21), Spring Boot (2.x/3.x), Spring Framework, Spring MVC, Spring WebFlux</td>
+  </tr>
+  <tr>
+    <td><b>Microservices</b></td>
+    <td>Spring Cloud, Eureka, API Gateway, Resilience4j, Zipkin, Feign Client, Config Server</td>
+  </tr>
+  <tr>
+    <td><b>Security</b></td>
+    <td>Spring Security, JWT Authentication, OAuth 2.0, OpenID Connect, RBAC, BCrypt</td>
+  </tr>
+  <tr>
+    <td><b>Databases & ORM</b></td>
+    <td>MySQL, PostgreSQL, MongoDB, Redis, Spring Data JPA, Hibernate ORM, JDBC, Liquibase, Flyway</td>
+  </tr>
+  <tr>
+    <td><b>Message Brokers</b></td>
+    <td>Apache Kafka, RabbitMQ, ActiveMQ</td>
+  </tr>
+  <tr>
+    <td><b>Cloud (AWS)</b></td>
+    <td>EC2, S3, RDS, Lambda, IAM, CloudWatch, SQS, SNS, API Gateway, Route 53</td>
+  </tr>
+  <tr>
+    <td><b>Firebase Ecosystem</b></td>
+    <td>Firebase Authentication, Cloud Firestore, Realtime DB, Storage, Cloud Functions, FCM (Messaging), Crashlytics, Analytics, Remote Config, App Distribution</td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Tools</b></td>
+    <td>Docker, Kubernetes (K8s), Git, GitHub Actions, GitLab CI, Fastlane, Jenkins, Maven, Gradle, Swagger/OpenAPI, Postman, SonarQube, Linux/Bash</td>
+  </tr>
+</table>
 
 ---
 
@@ -104,7 +151,6 @@ Results-driven **Software Engineer with 4+ years of professional production expe
         </a>
       </td>
       <td valign="top" width="50%">
-        <!-- यहाँ YOUR_4TH_REPO_HERE की जगह अपनी किसी और रिपॉजिटरी का नाम डाल दें -->
         <a href="https://github.com/Kamlesh195?tab=repositories">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamlesh195&repo=YOUR_4TH_REPO_HERE&theme=radical&show_icons=true" width="100%" alt="More Repositories" />
         </a>
